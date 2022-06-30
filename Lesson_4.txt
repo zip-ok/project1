@@ -1,0 +1,4 @@
+Hello!
+My name is Deny
+And I'll teach you about git
+Listen to me with carefully!
